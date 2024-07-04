@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Miguel Folder\Miguel Folder\scripts miguel\enemyScript.cs">
+    <Files>
+      <File FileName="Assets\Miguel Folder\Miguel Folder\scripts miguel\enemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Miguel Folder\Miguel Folder\scripts miguel\MenuController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Miguel Folder\Miguel Folder\scripts miguel\MatchWidth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Miguel Folder\Miguel Folder\scripts miguel\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Miguel Folder\Miguel Folder\scripts miguel\BreakablePlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Oskar Scene\Scripts\Player.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
